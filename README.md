@@ -1,8 +1,8 @@
 <div align="center">
 
-<h1>Fernando Lezcano</h1>
+<img src="./banner.svg" alt="Fernando Lezcano" width="100%"/>
 
-<h3>Software Engineer · Full-Stack · Data & AI</h3>
+<br><br>
 
 <a href="https://www.linkedin.com/in/fernando-lezcano01/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -16,37 +16,35 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingenier%C3%ADa+de+Software+%40+UTP;Desarrollador+Full-Stack+%26+ERP+(Odoo);Explorando+NLP%2C+Machine+Learning+%26+Data+Science" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Estudiante+de+Ingenier%C3%ADa+de+Software+%40+UTP;Desarrollador+Full-Stack+%26+ERP+(Odoo);Explorando+NLP%2C+Machine+Learning+%26+Data+Science" alt="Typing SVG" />
 
 <br>
 
-<img src="https://img.shields.io/github/followers/Fernando-lezcano?style=social" />
-&nbsp;
-<img src="https://img.shields.io/github/stars/Fernando-lezcano?style=social" />
+<img src="https://img.shields.io/github/followers/Fernando-lezcano?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=58a6ff" />
+<img src="https://img.shields.io/github/stars/Fernando-lezcano?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=58a6ff" />
+<img src="https://komarev.com/ghpvc/?username=Fernando-lezcano&style=for-the-badge&color=58a6ff&labelColor=0d1117&label=PROFILE+VIEWS" />
 
 </div>
 
 <br>
 
-## Sobre mí
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-Soy estudiante de cuarto año de **Ingeniería de Software** en la **Universidad Tecnológica de Panamá (UTP)**, con experiencia práctica como desarrollador en el sector ERP y formación sólida en bases de datos, backend y procesamiento de lenguaje natural (NLP).
+## &nbsp;&nbsp;Sobre mí
 
-He coordinado equipos en proyectos académicos aplicando principios sólidos de ingeniería de software, modelado de datos y metodologías ágiles. Complemento mi formación con certificaciones en AWS, ciencia de datos e inteligencia artificial.
+> Estudiante de cuarto año de **Ingeniería de Software** en la **Universidad Tecnológica de Panamá (UTP)**, con experiencia práctica como desarrollador en el sector ERP y formación sólida en bases de datos, backend y procesamiento de lenguaje natural (NLP).
+>
+> He coordinado equipos en proyectos académicos aplicando principios sólidos de ingeniería de software, modelado de datos y metodologías ágiles. Complemento mi formación con certificaciones en AWS, ciencia de datos e inteligencia artificial.
 
-<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## Stack Tecnológico
+## &nbsp;&nbsp;Stack Tecnológico
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,java,cpp,php,js,html,css,mysql,kotlin,androidstudio,git,vscode,aws,figma&theme=dark" />
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -62,9 +60,60 @@ He coordinado equipos en proyectos académicos aplicando principios sólidos de 
 
 </div>
 
-<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## Certificaciones
+## &nbsp;&nbsp;Proyectos Destacados
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Pipeline de NLP
+Pipeline estructurado en fases (léxico, sintáctico y semántico) inspirado en arquitectura de compiladores. Análisis de sentimientos con Transformers, modelado de temas con LDA y vectorización TF-IDF. Detección de idioma, traducción y generación con GPT-2.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HF](https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![scikit](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### Gestión de Bienestar Estudiantil
+Aplicación web con levantamiento de requerimientos vía casos de uso e historias de usuario. Base de datos relacional normalizada (3FN), autenticación, control de acceso por roles y CRUD completo.
+
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### BD de Tienda Tecnológica
+Modelo entidad-relación y esquema relacional para ventas, inventario, clientes y servicios técnicos. Más de 15 tablas normalizadas (3FN), consultas SQL avanzadas, procedimientos almacenados, triggers y vistas.
+
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### Hackathon Copa Airlines 2025
+Solución de monitoreo de vuelos construida con Databricks y AWS SageMaker durante el hackathon.
+
+![AWS](https://img.shields.io/badge/-AWS_SageMaker-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+> Convierte cada título en un enlace a su repositorio así: `### [Pipeline de NLP](https://github.com/Fernando-lezcano/nombre-repo)`
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## &nbsp;&nbsp;Certificaciones
 
 <div align="center">
 
@@ -97,31 +146,13 @@ He coordinado equipos en proyectos académicos aplicando principios sólidos de 
 - Inglés: Intermedio (B1) — Centro Especializado en Lenguas (CEL), 2022
 - Inglés para IT (B1 Alto) — Cisco, 2024
 
-<br>
-
-## Proyectos Destacados
-
-**Pipeline de Procesamiento de Lenguaje Natural (NLP)**
-Pipeline estructurado en fases (léxico, sintáctico y semántico) inspirado en arquitectura de compiladores. Análisis de sentimientos con Hugging Face Transformers, modelado de temas con LDA y vectorización TF-IDF con scikit-learn. Incluye detección de idioma, traducción automática y generación de texto con GPT-2.
-`Python` · `Hugging Face` · `scikit-learn` · `spaCy`
-
-**Sistema Web de Gestión para Bienestar Estudiantil**
-Aplicación web con levantamiento de requerimientos vía casos de uso e historias de usuario, arquitectura del sistema y base de datos relacional normalizada (3FN). Autenticación, control de acceso por roles y CRUD completo.
-`PHP` · `MySQL` · `HTML` · `CSS` · `JavaScript`
-
-**Sistema de Base de Datos para Gestión de Tienda Tecnológica**
-Modelo entidad-relación y esquema relacional para ventas, inventario, clientes, proveedores y servicios técnicos. Más de 15 tablas normalizadas hasta 3FN, consultas SQL avanzadas, procedimientos almacenados, triggers y vistas.
-`MySQL` · `SQL` · `Modelado de datos`
-
-> Puedes convertir cada título en un enlace a su repositorio: `[Título](https://github.com/Fernando-lezcano/nombre-del-repo)`
-
-<br>
-
-## Contacto
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-Fernando%20Lezcano-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-lezcano01/)
-[![Gmail](https://img.shields.io/badge/-fernando.lezcano0100%40gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:fernando.lezcano0100@gmail.com)
+### ¿Trabajamos juntos?
+
+[![LinkedIn](https://img.shields.io/badge/-Fernando%20Lezcano-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-lezcano01/)
+[![Gmail](https://img.shields.io/badge/-fernando.lezcano0100@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:fernando.lezcano0100@gmail.com)
 
 </div>
