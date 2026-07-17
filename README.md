@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Fernando%20Lezcano&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20%7C%20Data%20%26%20AI&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<h1>Fernando Lezcano</h1>
 
-<br>
+<h3>Software Engineer · Full-Stack · Data & AI</h3>
 
 <a href="https://www.linkedin.com/in/fernando-lezcano01/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -16,7 +16,13 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingenier%C3%ADa+de+Software+%40+UTP;Desarrollador+Full-Stack+%26+ERP+(Odoo);Explorando+NLP%2C+Machine+Learning+%26+Data+Science;Scrum+Fundamentals+Certified" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingenier%C3%ADa+de+Software+%40+UTP;Desarrollador+Full-Stack+%26+ERP+(Odoo);Explorando+NLP%2C+Machine+Learning+%26+Data+Science" alt="Typing SVG" />
+
+<br>
+
+<img src="https://img.shields.io/github/followers/Fernando-lezcano?style=social" />
+&nbsp;
+<img src="https://img.shields.io/github/stars/Fernando-lezcano?style=social" />
 
 </div>
 
@@ -53,21 +59,6 @@ He coordinado equipos en proyectos académicos aplicando principios sólidos de 
 ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-</div>
-
-<br>
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Fernando-lezcano&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-lezcano&layout=compact&theme=tokyonight&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" width="35%"/>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Fernando-lezcano&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="60%"/>
 
 </div>
 
@@ -110,18 +101,19 @@ He coordinado equipos en proyectos académicos aplicando principios sólidos de 
 
 ## Proyectos Destacados
 
-<div align="center">
+**Pipeline de Procesamiento de Lenguaje Natural (NLP)**
+Pipeline estructurado en fases (léxico, sintáctico y semántico) inspirado en arquitectura de compiladores. Análisis de sentimientos con Hugging Face Transformers, modelado de temas con LDA y vectorización TF-IDF con scikit-learn. Incluye detección de idioma, traducción automática y generación de texto con GPT-2.
+`Python` · `Hugging Face` · `scikit-learn` · `spaCy`
 
-<a href="https://github.com/Fernando-lezcano/trabajo-fianla-ing-web">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Fernando-lezcano&repo=trabajo-fianla-ing-web&theme=tokyonight&hide_border=true&bg_color=0d1117" width="45%"/>
-</a>
-<a href="https://github.com/Fernando-lezcano/trabajo-de-dev-tarea-app-gestion-de-tareas">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Fernando-lezcano&repo=trabajo-de-dev-tarea-app-gestion-de-tareas&theme=tokyonight&hide_border=true&bg_color=0d1117" width="45%"/>
-</a>
+**Sistema Web de Gestión para Bienestar Estudiantil**
+Aplicación web con levantamiento de requerimientos vía casos de uso e historias de usuario, arquitectura del sistema y base de datos relacional normalizada (3FN). Autenticación, control de acceso por roles y CRUD completo.
+`PHP` · `MySQL` · `HTML` · `CSS` · `JavaScript`
 
-</div>
+**Sistema de Base de Datos para Gestión de Tienda Tecnológica**
+Modelo entidad-relación y esquema relacional para ventas, inventario, clientes, proveedores y servicios técnicos. Más de 15 tablas normalizadas hasta 3FN, consultas SQL avanzadas, procedimientos almacenados, triggers y vistas.
+`MySQL` · `SQL` · `Modelado de datos`
 
-> *Reemplaza estos repos por tus proyectos más representativos (ideal: el pipeline de NLP, el sistema de bienestar estudiantil, o tu módulo de Odoo si es público).*
+> Puedes convertir cada título en un enlace a su repositorio: `[Título](https://github.com/Fernando-lezcano/nombre-del-repo)`
 
 <br>
 
@@ -133,5 +125,3 @@ He coordinado equipos en proyectos académicos aplicando principios sólidos de 
 [![Gmail](https://img.shields.io/badge/-fernando.lezcano0100%40gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:fernando.lezcano0100@gmail.com)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
